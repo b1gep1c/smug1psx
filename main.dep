@@ -1,0 +1,5 @@
+main.o: main.c ../psyq/include/sys/types.h ../psyq/include/stdio.h \
+ ../psyq/include/libgte.h ../psyq/include/libetc.h \
+ ../psyq/include/libgpu.h ../psyq/include/libapi.h \
+ ../psyq/include/kernel.h ../psyq/include/r3000.h ../psyq/include/asm.h \
+ ../psyq/include/libsnd.h ../psyq/include/libspu.h
